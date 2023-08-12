@@ -1,1 +1,12 @@
 /* your code */
+th{
+    background-color: rgb(33, 90, 142);
+    color: white;
+}
+tr:nth-child(even){
+    background-color: gray;
+}
+table{
+    border-collapse: collapse;
+    border-radius: 10px;
+}
